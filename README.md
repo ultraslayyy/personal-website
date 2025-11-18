@@ -1,5 +1,8 @@
 # Slick Portfolio With Svelte.
 
+> [!IMPORTANT]
+> I couldn't be bothered to style a website and make it look good, so I yoinked a template XD
+
 Vercel-like style portfolio template for developers.
 
 ### [Checkout Svelte 5 version is here](https://github.com/RiadhAdrani/slick-portfolio-svelte-5)
